@@ -18,6 +18,8 @@ namespace MHW_Template {
         public const string SAVE_FILE_KEY = "xieZjoe#P2134-3zmaghgpqoe0z8$3azeq";
         public const string UNKNOWN_KEY_3 = "b71AMFJuw63cUTlDt5ntSAtaAvwLKizNtapy4W0QAsC39QXPr6b78Asz"; // cRomPacketSysSyncStart
         public const string UNKNOWN_KEY_6 = "TZNgJfzyD2WKiuV4SglmI6oN5jP2hhRJcBwzUooyfIUTM4ptDYGjuRTP";
+        
+        public const string DTT_KEY_PREIB = "hZ2H0gvUA4xIELjPoCIKefoCUFK9D77aPQvL9goKDpFbC2U2yhTRhWJG";
 
         public static readonly Dictionary<string, string> FILE_EXT_KEY_LOOKUP = new Dictionary<string, string> {
             {".aeq", UNKNOWN_KEY_3},
